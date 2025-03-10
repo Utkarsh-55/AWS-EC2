@@ -5,11 +5,11 @@ Dev-Connect is a VSCode extension that enables **peer-to-peer (P2P) connections*
 ---
 
 ## 🔹 How to Use  
-  [![Watch the video]](https://tinyurl.com/Dev-connect)
-<video width="600" controls>
-  <source src="[https://github.com/your-repo/assets/demo.mp4](https://tinyurl.com/Dev-connect)" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+
+
+  [![Watch the video]](https://github.com/user-attachments/assets/23183940-5361-4b4f-99ad-8ee19e019958
+)
 
 ### 1️⃣ Install Dev-Connect Extension  
 Install the extension in VSCode.  
